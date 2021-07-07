@@ -1,3 +1,4 @@
+@BindingType("http://java.sun.com/xml/ns/jaxws/2003/05/soap/bindings/HTTP/")
 {
 	"providerName": "Roku Developers",
 	"language": "en-us",
